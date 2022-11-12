@@ -33,8 +33,7 @@
 
 Пример реализации
 
-Создайте 4 интерфейса: 
-1. Reader, Librarian, Supplier, Administrator. 
+1. Создайте 4 интерфейса: Reader, Librarian, Supplier, Administrator. 
 2. Каждый из них должен содержать описанные выше методы. 
 3. Например, у администратора должен быть метод overdueNotification(Reader reader). 
 4. Методы могут принимать в качестве параметра других user-ов. 
