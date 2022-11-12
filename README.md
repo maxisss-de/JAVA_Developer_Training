@@ -1,13 +1,13 @@
-## Welcome! 
-## Java developer training. 
+### Welcome! 
+### Java developer training. 
 Here are the tasks and solutions made by me. 
 ### ----------------------
-## Willkommen! 
-## Schulung für Java-Entwickler. 
+### Willkommen! 
+### Schulung für Java-Entwickler. 
 Hier sind die Aufgaben und Lösungen, die ich gemacht habe. 
 ### ------------------------------------------
-## Добро пожаловать! 
-## Обучение на Джава разработчика. 
+### Добро пожаловать! 
+### Обучение на Джава разработчика. 
 Здесь задачи и решения сделанные мной. 
 #### [Что я прошел по курсу: "Основы Java"](https://github.com/Maxim-Wilhelm/JAVA-Homeworks/blob/master/README.md)
  
