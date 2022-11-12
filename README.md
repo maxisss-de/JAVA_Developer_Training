@@ -14,5 +14,5 @@ Hier sind die Aufgaben und Lösungen, die ich gemacht habe
 
 
 
-![Vycd](https://user-images.githubusercontent.com/69854595/201496855-3d897a0b-df5e-4a80-82f4-3af04e766429.gif | Hello, I am Max, junior Java Developer. I'm programmer who has many interests in life and passion to study programming and use it in a creative way...
+![Vycd](https://user-images.githubusercontent.com/69854595/201496855-3d897a0b-df5e-4a80-82f4-3af04e766429.gif) | Hello, I am Max, junior Java Developer. I'm programmer who has many interests in life and passion to study programming and use it in a creative way...
  ------------ | -------------
