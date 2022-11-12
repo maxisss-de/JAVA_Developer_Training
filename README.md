@@ -1,7 +1,7 @@
 ### Welcome! 
 ### Java developer training. 
 Here are the tasks and solutions made by me. 
-### ![](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
+### ![github-contribution-grid-snake (1)](https://user-images.githubusercontent.com/69854595/201497399-2e0a2af5-9a88-4297-96df-d6dea0d89153.gif)
 ### Willkommen! 
 ### Schulung für Java-Entwickler. 
 Hier sind die Aufgaben und Lösungen, die ich gemacht habe. 
