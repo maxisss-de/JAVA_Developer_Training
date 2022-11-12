@@ -1,7 +1,7 @@
 ### Welcome! 
 ### Java developer training. 
 Here are the tasks and solutions made by me. 
-### ----------------------
+### -----------------------------------------------------------------------------------------------------------------------------
 ### Willkommen! 
 ### Schulung für Java-Entwickler. 
 Hier sind die Aufgaben und Lösungen, die ich gemacht habe. 
