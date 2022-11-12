@@ -5,7 +5,7 @@ Here are the tasks and solutions made by me.
 ### Willkommen! 
 ### Schulung für Java-Entwickler. 
 Hier sind die Aufgaben und Lösungen, die ich gemacht habe. 
-### -----------------------------------------------------------------------------------------------------------------------------
+### ![](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
 ### Добро пожаловать! 
 ### Обучение на Джава разработчика. 
 Здесь задачи и решения сделанные мной. 
