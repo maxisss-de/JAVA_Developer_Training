@@ -7,7 +7,7 @@ Here are the tasks and solutions made by me.
 Hier sind die Aufgaben und Lösungen, die ich gemacht habe. 
 ![](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
 ### Добро пожаловать! 
-### Обучение на Джава разработчика. 
+### Обучение на Java-разработчика. 
 Здесь задачи и решения сделанные мной.
 
 #### [Что я прошел по курсу: "Основы Java"](https://github.com/Maxim-Wilhelm/JAVA-Homeworks/blob/master/README.md)
