@@ -1,7 +1,5 @@
 # Установка IntelliJ IDEA
 
-**Важно**: если у вас что-то не получилось, то оформляйте Issue [по установленным правилам](../report-requirements.md).
-
 Шаг 1. Перейдите по адресу https://www.jetbrains.com/toolbox/app/, выберите необходиму ОС и нажмите кнопку "Скачать":
 
 ![](pic/toolbox-web.png)
