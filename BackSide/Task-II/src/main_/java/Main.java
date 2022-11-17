@@ -15,7 +15,7 @@ public class Main {
             for (int i = 0; i < parts.length; i++) {
                 char[] s1 = parts[i].toCharArray();      // Метод toCharArray() — преобразует данную строку в новый массив символов
                 for (int j = s1.length-1; j >= 0; j--)
-            { System.out.print(s1[j]); }
+            System.out.print(s1[j]);
                 System.out.print(" ");
             }
             if ("end".equals(inputWords)) {
