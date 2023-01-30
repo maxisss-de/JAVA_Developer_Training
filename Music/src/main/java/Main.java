@@ -1,5 +1,5 @@
-public class Main {                     // Это класс для реализации (что мы делали планы и чертежи в других классах)
-
+public class Main {                     // Это класс для реализации
+    
     public static void main(String[] args) throws Exception {    // 14.11) "throws Exception" добавляется вместе с этой командой см. 14.9)
         Instrument[] instruments = {      // 11.1) Массив инструментов ([Первый индекс][] -номер инструмента, а [][второй индекс] - номер секунды.)
             new Guitar(),                 // 11.2) = см. 12.2)
