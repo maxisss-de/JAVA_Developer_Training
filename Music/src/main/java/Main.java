@@ -1,4 +1,4 @@
-public class Main {                     // Это класс для реализации
+public class Main {                       // Это класс для реализации
     
     public static void main(String[] args) throws Exception {    // 14.11) "throws Exception" добавляется вместе с этой командой см. 14.9)
         Instrument[] instruments = {      // 11.1) Массив инструментов ([Первый индекс][] -номер инструмента, а [][второй индекс] - номер секунды.)
@@ -18,7 +18,6 @@ public class Main {                     // Это класс для реализ
         Song song = new Song(instruments, shouldPlay);
         {  // 13) Создаём объект нашей песни (чтобы она была видна тут). Передаём туда массив инструментов(instruments) и схема для игры(shouldPlay)
             song.play();                                    // 14.12) Если вызовем метод play(), который находиться в классе Song у нас пойдёт игра музыкальных инструментов
-
         }
     }
 }
