@@ -24,7 +24,7 @@ public class Main {
  Plate plate = new Plate(300);
  plate.info();
  dog.eat();
- plate.setFood(plate.getFood() - cat.getAppetite());
+ plate.setFood(plate.getFood() - dog.getAppetite());
  }
 }
 ```
